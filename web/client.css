@@ -1,9 +1,11 @@
+@import url('https://cdn.fontcdn.ir/Font/Persian/Sahel/Sahel.css');
+
 @font-face {
     font-family: XoloniumRegular;
     src: url('XoloniumRegular.otf') format('opentype');
 }
 body, p, .tooltip {
-   font-family: XoloniumRegular;
+   font-family: Sahel;
 }
 @font-face {
     font-family: icomoon;
